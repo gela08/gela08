@@ -112,7 +112,7 @@ You can reach out through GitHub or connect through linked platforms below:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gela08&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gela08&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gela08&layout=compact&hide_border=true&card_height=600" />
 </p>
 
 <p align="center">
