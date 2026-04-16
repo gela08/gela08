@@ -18,7 +18,7 @@ Full Stack Developer | Next.js • React • React Native • Firebase • Supab
 <p align="center">
   I am trying to build tools that is useful for me and for the community.
 </p>
-
+<br>
 ---
 
 ## Overview
@@ -30,13 +30,7 @@ My work involves developing **modern applications using Next.js, React, React Na
 I build tools that are useful for myself and the community, with an emphasis on clean design, maintainability, and real-world usability.
 
 I am open to collaborations, trainings, and development opportunities.
-
----
-
-
-**Now Playing** on Spotify <br><br>
-[![Spotify](https://aenq.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/225pgnypdcud2r4ya6cp3gtha?si=b9f5ee5e9b19450a)
-
+<br>
 ---
 
 ## Current Focus
@@ -45,7 +39,7 @@ I am open to collaborations, trainings, and development opportunities.
 * Building cross-platform mobile apps with React Native
 * Designing scalable backend systems with Firebase and Supabase
 * Improving system performance and user experience
-
+<br>
 ---
 
 ## Tech Stack
@@ -78,7 +72,7 @@ I am open to collaborations, trainings, and development opportunities.
 <img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio,codepen,arduino" />
 
 </div>
-
+<br>
 ---
 
 ## Selected Work
@@ -89,7 +83,7 @@ I am open to collaborations, trainings, and development opportunities.
 - Budget Tracking System using Supabase for backend storage and real-time data sync
 
 Explore more in my repositories for implementation details and source code. 
-
+<br>
 ---
 
 ## Contact
@@ -100,8 +94,6 @@ You can reach out through GitHub or connect through linked platforms below:
 - **Email:** angelagardan41@gmail.com  
 - **Portfolio:** https://akaizer.vercel.app
 - **LinkedIn:** [Angela Gardan](https://www.linkedin.com/in/gela08/)
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -130,5 +122,7 @@ You can reach out through GitHub or connect through linked platforms below:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
