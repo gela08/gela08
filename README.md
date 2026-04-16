@@ -1,6 +1,6 @@
 <!-- Header / SEO Title -->
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub contributors](https://img.shields.io/github/contributors/gela08/creative-profile-readme)](https://github.com/gela08/creative-profile-readme/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/gela08/creative-profile-readme)](https://github.com/gela08/creative-profile-readme/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/gela08/creative-profile-readme/pulls) [![HitCount](https://views.whatilearened.today/views/github/gela08/creative-profile-readme.svg)](https://github.com/gela08/creative-profile-readme)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/gela08/creative-profile-readme/pulls) [![HitCount](https://views.whatilearened.today/views/github/gela08/creative-profile-readme.svg)](https://github.com/gela08/creative-profile-readme)
 
 
 
@@ -9,13 +9,11 @@
   <img src="/scuba-cat-scuba.gif"/>
 </div>
 
-<h1 align="center">Angela Gardan | Full Stack Developer</h1>
+<h1 align="center">Angela Gardan </h1>
 
 <p align="center">
-Next.js • React • React Native • Firebase • Supabase • AI Developer
+Full Stack Developer | Next.js • React • React Native • Firebase • Supabase • AI Developer
 </p>
-
----
 
 <p align="center">
   I am trying to build tools that is useful for me and for the community.
@@ -37,9 +35,9 @@ I am open to collaborations, trainings, and development opportunities.
 
 
 **Now Playing** on Spotify <br><br>
-[![Spotify](https://aenq.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/nufwbt70xpxz6e3xrp9dwixdw)
+[![Spotify](https://aenq.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/225pgnypdcud2r4ya6cp3gtha?si=b9f5ee5e9b19450a)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## Current Focus
 
@@ -48,7 +46,7 @@ I am open to collaborations, trainings, and development opportunities.
 * Designing scalable backend systems with Firebase and Supabase
 * Improving system performance and user experience
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## Tech Stack
 
@@ -81,7 +79,7 @@ I am open to collaborations, trainings, and development opportunities.
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## Selected Work
 
@@ -107,6 +105,7 @@ Explore more in my repositories for implementation details and source code.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
 ## Contact
 
 If you are building something meaningful or need a developer to contribute, feel free to connect.
@@ -116,7 +115,7 @@ You can reach out through GitHub or connect through linked platforms below:
 - **Portfolio:** https://akaizer.vercel.app
 - **LinkedIn:** [Angela Gardan](https://www.linkedin.com/in/gela08/)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 
 <div align="center">
