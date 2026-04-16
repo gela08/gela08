@@ -101,7 +101,7 @@ If you are building something meaningful or need a developer to contribute, feel
 You can reach out through GitHub or connect through linked platforms below:
 
 - **Email:** angelagardan41@gmail.com  
-- **Portfolio:** [Angela Gardan] https://akaizer.vercel.app
+- **Portfolio:** https://akaizer.vercel.app
 - **LinkedIn:** [Angela Gardan](https://www.linkedin.com/in/gela08/  )
 
 ---
