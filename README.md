@@ -18,7 +18,9 @@ Full Stack Developer | Next.js • React • React Native • Firebase • Supab
 <p align="center">
   I am trying to build tools that is useful for me and for the community.
 </p>
+
 <br>
+
 ---
 
 ## Overview
@@ -30,7 +32,9 @@ My work involves developing **modern applications using Next.js, React, React Na
 I build tools that are useful for myself and the community, with an emphasis on clean design, maintainability, and real-world usability.
 
 I am open to collaborations, trainings, and development opportunities.
+
 <br>
+
 ---
 
 ## Current Focus
@@ -40,6 +44,7 @@ I am open to collaborations, trainings, and development opportunities.
 * Designing scalable backend systems with Firebase and Supabase
 * Improving system performance and user experience
 <br>
+
 ---
 
 ## Tech Stack
@@ -73,6 +78,7 @@ I am open to collaborations, trainings, and development opportunities.
 
 </div>
 <br>
+
 ---
 
 ## Selected Work
