@@ -90,6 +90,19 @@ I am open to collaborations, trainings, and development opportunities.
 
 Explore more in my repositories for implementation details and source code. 
 
+---
+
+## Contact
+
+If you are building something meaningful or need a developer to contribute, feel free to connect.
+You can reach out through GitHub or connect through linked platforms below:
+
+- **Email:** angelagardan41@gmail.com  
+- **Portfolio:** https://akaizer.vercel.app
+- **LinkedIn:** [Angela Gardan](https://www.linkedin.com/in/gela08/)
+
+---
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## GitHub Activity
@@ -104,18 +117,6 @@ Explore more in my repositories for implementation details and source code.
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-## Contact
-
-If you are building something meaningful or need a developer to contribute, feel free to connect.
-You can reach out through GitHub or connect through linked platforms below:
-
-- **Email:** angelagardan41@gmail.com  
-- **Portfolio:** https://akaizer.vercel.app
-- **LinkedIn:** [Angela Gardan](https://www.linkedin.com/in/gela08/)
-
----
 
 
 <div align="center">
