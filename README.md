@@ -120,7 +120,7 @@ You can reach out through GitHub or connect through linked platforms below:
 
 <div align="center">
 <p>Thank you for visiting my profile, please leave something in my guestbook 👇 :</p>
- <a href="https://github.com/gela08/gela08/issues/3#issuecomment-new"><img src="https://github.com/gela08/gela08/blob/main/GUEST_BOOK_GIF.gif" alt="Guest book"></a>
+ <a href="https://github.com/gela08/gela08/issues/1#issue-4277382012"><img src="https://github.com/gela08/gela08/blob/main/GUEST_BOOK_GIF.gif" alt="Guest book"></a>
 </div>
 
 
