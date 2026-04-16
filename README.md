@@ -1,7 +1,7 @@
 <!-- Header / SEO Title -->
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/Xn3TfHpAJiMAAAAC/scuba-cat-scuba.gif"/>
+  <img src="/scuba-cat-scuba.gif"/>
 </div>
 
 <h1 align="center">Angela Gardan</h1>
