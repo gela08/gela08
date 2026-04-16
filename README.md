@@ -1,5 +1,7 @@
 <!-- Header / SEO Title -->
+<div align="center">
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub contributors](https://img.shields.io/github/contributors/gela08/creative-profile-readme)](https://github.com/gela08/creative-profile-readme/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/gela08/creative-profile-readme)](https://github.com/gela08/creative-profile-readme/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/gela08/creative-profile-readme/pulls) [![HitCount](https://views.whatilearened.today/views/github/gela08/creative-profile-readme.svg)](https://github.com/gela08/creative-profile-readme)
+</div>
 
 
 
@@ -8,6 +10,9 @@
 </div>
 
 <h1 align="center">Angela Gardan</h1>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
   Full Stack Developer 
 </p>
@@ -16,7 +21,7 @@
   I am trying to build tools that is useful for me and for the community.
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Overview
 
@@ -29,7 +34,7 @@ I build tools that are useful for myself and the community, with an emphasis on 
 I am open to collaborations, trainings, and development opportunities.
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Current Focus
 
@@ -38,7 +43,7 @@ I am open to collaborations, trainings, and development opportunities.
 * Designing scalable backend systems with Firebase and Supabase
 * Improving system performance and user experience
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Tech Stack
 
@@ -71,7 +76,7 @@ I am open to collaborations, trainings, and development opportunities.
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Selected Work
 
@@ -82,7 +87,7 @@ I am open to collaborations, trainings, and development opportunities.
 
 Explore more in my repositories for implementation details and source code. 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## GitHub Activity
 
@@ -95,8 +100,7 @@ Explore more in my repositories for implementation details and source code.
   <img src="https://streak-stats.demolab.com?user=gela08&theme=ocean-dark&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200" />
 </p>
 
----
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Contact
 
@@ -107,8 +111,16 @@ You can reach out through GitHub or connect through linked platforms below:
 - **Portfolio:** https://akaizer.vercel.app
 - **LinkedIn:** [Angela Gardan](https://www.linkedin.com/in/gela08/  )
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+<div align="center">
+<p>Thank you for visiting my profile, please leave something in my guestbook 👇 :</p>
+ <a href="https://github.com/gela08/gela08/issues/3#issuecomment-new"><img src="https://github.com/gela08/gela08/blob/main/GUEST_BOOK_GIF.gif" alt="Guest book"></a>
+</div>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
