@@ -108,6 +108,7 @@ You can reach out through GitHub or connect through linked platforms below:
   <img src="https://streak-stats.demolab.com?user=gela08&theme=ocean-dark&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200" />
 </p>
 
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -116,7 +117,7 @@ You can reach out through GitHub or connect through linked platforms below:
  <a href="https://github.com/gela08/gela08/issues/1#issue-4277382012"><img src="https://github.com/gela08/gela08/blob/main/GUEST_BOOK_GIF.gif" alt="Guest book"></a>
 </div>
 
-
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ✍️ Random Dev Quote
