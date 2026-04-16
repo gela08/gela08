@@ -9,19 +9,19 @@
   <img src="/scuba-cat-scuba.gif"/>
 </div>
 
-<h1 align="center">Angela Gardan</h1>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">Angela Gardan | Full Stack Developer</h1>
 
 <p align="center">
-  Full Stack Developer 
+Next.js • React • React Native • Firebase • Supabase • AI Developer
 </p>
+
+---
 
 <p align="center">
   I am trying to build tools that is useful for me and for the community.
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## Overview
 
@@ -33,6 +33,11 @@ I build tools that are useful for myself and the community, with an emphasis on 
 
 I am open to collaborations, trainings, and development opportunities.
 
+---
+
+
+**Now Playing** on Spotify <br><br>
+[![Spotify](https://aenq.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/nufwbt70xpxz6e3xrp9dwixdw)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -80,10 +85,10 @@ I am open to collaborations, trainings, and development opportunities.
 
 ## Selected Work
 
-* AI Chatbot Platform using Next.js and OpenRouter
-* Web-based Photobooth Application with dynamic themes
-* Mobile Blog Application with Firebase backend
-* Budgeting and Expense Tracking System
+- AI Chatbot Platform built with Next.js and OpenRouter API (AI integration, real-time responses)
+- Photobooth Web Application using Next.js with dynamic theme system and UI rendering
+- Mobile Blog Application built with React Native and Firebase (authentication + database)
+- Budget Tracking System using Supabase for backend storage and real-time data sync
 
 Explore more in my repositories for implementation details and source code. 
 
@@ -109,7 +114,7 @@ You can reach out through GitHub or connect through linked platforms below:
 
 - **Email:** angelagardan41@gmail.com  
 - **Portfolio:** https://akaizer.vercel.app
-- **LinkedIn:** [Angela Gardan](https://www.linkedin.com/in/gela08/  )
+- **LinkedIn:** [Angela Gardan](https://www.linkedin.com/in/gela08/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -126,3 +131,4 @@ You can reach out through GitHub or connect through linked platforms below:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
