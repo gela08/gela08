@@ -1,7 +1,7 @@
 <!-- Header / SEO Title -->
-<div align="center">
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub contributors](https://img.shields.io/github/contributors/gela08/creative-profile-readme)](https://github.com/gela08/creative-profile-readme/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/gela08/creative-profile-readme)](https://github.com/gela08/creative-profile-readme/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/gela08/creative-profile-readme/pulls) [![HitCount](https://views.whatilearened.today/views/github/gela08/creative-profile-readme.svg)](https://github.com/gela08/creative-profile-readme)
-</div>
+
 
 
 
