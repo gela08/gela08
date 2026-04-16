@@ -98,7 +98,10 @@ Explore more in my repositories for implementation details and source code.
 ## Contact
 
 If you are building something meaningful or need a developer to contribute, feel free to connect.
-You can reach out through GitHub or connect through linked platforms.
+You can reach out through GitHub or connect through linked platforms below:
 
+- **Email:** angelagardan41@gmail.com  
+- **Portfolio:** https://akaizer.vercel.app
+- **LinkedIn:** [Angela Gardan](https://www.linkedin.com/in/gela08/  )
 
 ---
