@@ -83,7 +83,7 @@ Explore more in my repositories for implementation details and source code.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gela08&theme=ocean-dark&date_format=M%20j%5B%2C%20Y%5D&card_height=200" />
+  <img src="https://streak-stats.demolab.com?user=gela08&theme=ocean-dark&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200" />
 </p>
 
 ---
