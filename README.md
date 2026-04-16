@@ -1,5 +1,9 @@
 <!-- Header / SEO Title -->
 
+<div align="center">
+  <img src="https://media1.tenor.com/m/Xn3TfHpAJiMAAAAC/scuba-cat-scuba.gif" width="400"/>
+</div>
+
 <h1 align="center">Angela Gardan</h1>
 <p align="center">
   Full Stack Developer 
@@ -14,11 +18,13 @@
 ## Overview
 
 I am a full stack developer specializing in modern web and mobile development. I focus on building applications that are performant, maintainable, and aligned with real-world needs.
-
 My current work involves developing AI-integrated systems, scalable backend architectures, and responsive user interfaces using industry-standard tools. 
 
-I am always and still learning, also open for collaborations
+I am open for collaborations/trainings/seminars.
 
+I am always and still learning.
+
+> *“Learning never exhaust the mind.”*
 
 ---
 
@@ -71,7 +77,7 @@ I am always and still learning, also open for collaborations
 * Mobile Blog Application with Firebase backend
 * Budgeting and Expense Tracking System
 
-Explore more in my repositories for implementation details and source code.
+Explore more in my repositories for implementation details and source code. 
 
 ---
 
@@ -93,5 +99,6 @@ Explore more in my repositories for implementation details and source code.
 
 If you are building something meaningful or need a developer to contribute, feel free to connect.
 You can reach out through GitHub or connect through linked platforms.
+
 
 ---
