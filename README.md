@@ -1,4 +1,7 @@
 <!-- Header / SEO Title -->
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub contributors](https://img.shields.io/github/contributors/gela08/creative-profile-readme)](https://github.com/gela08/creative-profile-readme/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/gela08/creative-profile-readme)](https://github.com/gela08/creative-profile-readme/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/gela08/creative-profile-readme/pulls) [![HitCount](https://views.whatilearened.today/views/github/gela08/creative-profile-readme.svg)](https://github.com/gela08/creative-profile-readme)
+
+
 
 <div align="center">
   <img src="/scuba-cat-scuba.gif"/>
@@ -17,14 +20,14 @@
 
 ## Overview
 
-I am a full stack developer specializing in modern web and mobile development. I focus on building applications that are performant, maintainable, and aligned with real-world needs.
-My current work involves developing AI-integrated systems, scalable backend architectures, and responsive user interfaces using industry-standard tools. 
+I am **Angela Gardan**, a Full Stack Developer focused on building practical and scalable software solutions for web and mobile platforms.
 
-I am open for collaborations/trainings/seminars.
+My work involves developing **modern applications using Next.js, React, React Native, Firebase, and Supabase**, with a growing focus on AI-integrated systems and backend architecture.
 
-I am always and still learning.
+I build tools that are useful for myself and the community, with an emphasis on clean design, maintainability, and real-world usability.
 
-> *“Learning never exhaust the mind.”*
+I am open to collaborations, trainings, and development opportunities.
+
 
 ---
 
@@ -105,3 +108,9 @@ You can reach out through GitHub or connect through linked platforms below:
 - **LinkedIn:** [Angela Gardan](https://www.linkedin.com/in/gela08/  )
 
 ---
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
